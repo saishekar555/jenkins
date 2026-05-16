@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> welcome to SNIT Jenkins Azure 123 </h2>
+	<h2> welcome dammoju sai shekar chary you have done successfully website through Jenkins and Tomcat </h2>
   
 </body>
 </html>
